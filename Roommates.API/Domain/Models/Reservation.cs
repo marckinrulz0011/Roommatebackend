@@ -7,5 +7,9 @@ namespace Roommates.API.Domain.Models
 {
     public class Reservation
     {
+        public int Id { get; set; }
+        public string StartDate { get; set; }
+        public string EndDate { get; set; }
+        public int Price { get; set; }
     }
 }
