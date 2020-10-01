@@ -7,5 +7,8 @@ namespace Roommates.API.Domain.Models
 {
     public class Resources
     {
+        public int Id { get; set; }
+        public int Tipe { get; set; }
+        public string Date { get; set; }
     }
 }
