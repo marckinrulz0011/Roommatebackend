@@ -14,5 +14,6 @@ namespace Roommates.API.Domain.Models
         public string Telephone { get; set; }
         public string sexo { get; set; }
         public string dateBirthday { get; set; }
+        public bool premium { get; set; }
     }
 }
