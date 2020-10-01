@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YLYZrNpvaHuhsttGdA7S9gOJW1qsv37+pzrcqvsyPAy/vCfiuW0SD+mH3JlfamzXhjJYsynFbuRXVgQZH5ZJHw==",
+  "dgSpecHash": "x1PWfRWxnzM3Uslv9gIWbX1ONgYnODy43UlgHpbkQbI+ZyvU9rlc65hjOyZ7cbFPx4G9aiMz0+GHOrorYbA1Mg==",
   "success": true,
-  "projectFilePath": "D:\\JOAO\\Web\\Version 2\\TF\\Backend\\Roommates.API\\Roommates.API.csproj",
+  "projectFilePath": "C:\\Users\\andre\\Source\\Repos\\Roommatebackend\\Roommates.API\\Roommates.API.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
