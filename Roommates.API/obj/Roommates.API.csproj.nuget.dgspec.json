@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\Desktop\\Aplicaciones Web\\Roommates\\Roommates.API\\Roommates.API.csproj": {}
+    "D:\\JOAO\\Web\\Version 2\\TF\\Backend\\Roommates.API\\Roommates.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\Desktop\\Aplicaciones Web\\Roommates\\Roommates.API\\Roommates.API.csproj": {
+    "D:\\JOAO\\Web\\Version 2\\TF\\Backend\\Roommates.API\\Roommates.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\Desktop\\Aplicaciones Web\\Roommates\\Roommates.API\\Roommates.API.csproj",
+        "projectUniqueName": "D:\\JOAO\\Web\\Version 2\\TF\\Backend\\Roommates.API\\Roommates.API.csproj",
         "projectName": "Roommates.API",
-        "projectPath": "C:\\Users\\andre\\Desktop\\Aplicaciones Web\\Roommates\\Roommates.API\\Roommates.API.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\Desktop\\Aplicaciones Web\\Roommates\\Roommates.API\\obj\\",
+        "projectPath": "D:\\JOAO\\Web\\Version 2\\TF\\Backend\\Roommates.API\\Roommates.API.csproj",
+        "packagesPath": "C:\\Users\\Intel\\.nuget\\packages\\",
+        "outputPath": "D:\\JOAO\\Web\\Version 2\\TF\\Backend\\Roommates.API\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Intel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
