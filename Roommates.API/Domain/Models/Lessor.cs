@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Roommates.API.Domain.Models
 {
-    public class Arrendador
+    public class Lessor
     {
     }
 }
